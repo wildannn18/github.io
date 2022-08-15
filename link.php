@@ -1,0 +1,1 @@
+<td><a href="edit.php?nis=<?php echo $tampil"["nis"]; ?>"Edit</a>
